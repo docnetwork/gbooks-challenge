@@ -6,9 +6,7 @@ function showError(msg) {
 
 // Searches for books and returns a promise that resolves a JSON list
 function searchForBooks(term) {
-  return new Promise((resolve, reject) => {
-    // TODO
-  });
+  // TODO
 }
 
 // Generate HTML and sets #results's contents to it
