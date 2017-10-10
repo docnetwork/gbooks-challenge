@@ -4,7 +4,7 @@ For this challenge you will be creating a rudimentary search engine that consume
 
 ## Instructions
 - Fork this repository and complete the challenge according to the specifications below.
-- Once finished, email your [patch](https://robots.thoughtbot.com/send-a-patch-to-someone-using-git-format-patch) to jobs+dev@docnetwork.org and we will review your submission.
+- Once finished, email your [patch](https://robots.thoughtbot.com/send-a-patch-to-someone-using-git-format-patch) to jobs+dev@docnetwork.org and we will review your submission. **(Do _Not_ Open A Pull Request)**
 
 ## Notes
 - You may _not_ use jQuery. Use `document` for DOM manipulation and `fetch` for http requests.
