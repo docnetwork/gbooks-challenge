@@ -25,4 +25,4 @@ For this challenge you will be creating a rudimentary search engine that consume
 - **The results should be visually appealing, styled logically, and fully responsive for mobile devices.**
 - While you must use the three function stubs provided in `main.js`, this challenge will require you to write some code outside of them.
 - You may _not_ use jQuery. Use `document` for DOM manipulation and [`fetch`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) for http requests.
-  - You may also use tools your framework provides (e.g. `$http`) or external packaged (e.g. `axios`)
+  - For requests, you may instead use tools your framework provides (e.g. `$http`) or other packages (e.g. `axios`).
