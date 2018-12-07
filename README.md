@@ -20,7 +20,7 @@ For this challenge you will be creating a rudimentary search engine that consume
   - Subtitle
   - Authors
 - Additionally, each result should somehow provide a link to its respective Google Books page. Look at a Google Books entry on Google Books, and see which parameter might help you.
-- Each subsequent query should append its results to the results area.
+- Each subsequent query should append or prepend its results to the results area.
 - There must be no duplicates (by Google Books id).
 - **The results should be visually appealing, styled logically, and fully responsive for mobile devices.**
 - While you must use the three function stubs provided in `main.js`, this challenge will require you to write some code outside of them.
